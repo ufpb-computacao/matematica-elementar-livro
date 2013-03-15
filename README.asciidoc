@@ -1,0 +1,3 @@
+== matematica-elementar-livro-tex
+
+Consulte https://github.com/edusantana/producao-computacao-ead-ufpb
