@@ -1,5 +1,7 @@
 == Livro de disciplina
 
+A versão em produção do livro pode ser vista em: http://producao.virtual.ufpb.br/books/edusantana/matematica-elementar-livro/livro/livro.pdf
+
 Este repositório contém um livro de uma disciplina.
 
 Para conhecer o seu processo de produção consulte 
