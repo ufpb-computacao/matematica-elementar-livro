@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="drawing.svg">
+   sodipodi:docname="img01-subset.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -83,9 +83,9 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      height="184.25px"
-     inkscape:window-width="1280"
-     inkscape:window-height="1002"
-     inkscape:window-x="1358"
+     inkscape:window-width="1221"
+     inkscape:window-height="746"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -96,7 +96,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -107,23 +107,23 @@
      transform="translate(0,-652.36208)">
     <path
        sodipodi:type="arc"
-       style="fill:url(#linearGradient3025);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:url(#linearGradient3025);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path2985"
        sodipodi:cx="221.42857"
        sodipodi:cy="390.93362"
        sodipodi:rx="135.71428"
        sodipodi:ry="135.71428"
-       d="m 357.14285,390.93362 a 135.71428,135.71428 0 1 1 -271.428556,0 135.71428,135.71428 0 1 1 271.428556,0 z"
+       d="m 357.14285,390.93362 c 0,74.95293 -60.76135,135.71428 -135.71428,135.71428 -74.95292,0 -135.714276,-60.76135 -135.714276,-135.71428 0,-74.95292 60.761356,-135.71427 135.714276,-135.71427 74.95293,0 135.71428,60.76135 135.71428,135.71427 z"
        transform="translate(-22.857143,462.85714)" />
     <path
        sodipodi:type="arc"
-       style="fill:url(#linearGradient3027);fill-opacity:1;stroke:#000000;stroke-width:6"
+       style="fill:url(#linearGradient3027);fill-opacity:1;stroke:#000000;stroke-width:4"
        id="path2987"
        sodipodi:cx="210"
        sodipodi:cy="462.36218"
        sodipodi:rx="70"
        sodipodi:ry="70"
-       d="m 280,462.36218 a 70,70 0 1 1 -140,0 70,70 0 1 1 140,0 z"
+       d="m 280,462.36218 c 0,38.65994 -31.34007,70 -70,70 -38.65993,0 -70,-31.34006 -70,-70 0,-38.65993 31.34007,-70 70,-70 38.65993,0 70,31.34007 70,70 z"
        transform="translate(-48.571429,422.85714)" />
     <text
        xml:space="preserve"
