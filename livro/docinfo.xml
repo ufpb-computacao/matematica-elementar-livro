@@ -12,9 +12,20 @@
       <date>Março 2014</date>
       <authorinitials>Rafael,Eduardo</authorinitials>
       <revremark>
-        
+- Adaptação do livro para o novo formato. 
+- Versão para o autor revisar.
       </revremark>
     </revision>
+
+    <revision>
+      <revnumber>v1.0.0</revnumber>
+      <date>Março de 2013</date>
+      <authorinitials>Hélio</authorinitials>
+      <revremark>
+        Versão elaborada no Word.
+      </revremark>
+    </revision>
+
 
   </revhistory>
 
