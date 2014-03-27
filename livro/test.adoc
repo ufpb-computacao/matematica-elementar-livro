@@ -11,20 +11,32 @@
 ////
 
 include::capitulos/cap1.asc[]
-//nclude::capitulos/cap2.asc[]
-//nclude::capitulos/cap3.asc[]
-//nclude::capitulos/cap4.asc[]
-//nclude::capitulos/cap5.asc[]
-//nclude::capitulos/cap6.asc[]
-//nclude::capitulos/cap7.asc[]
+include::capitulos/cap2.asc[]
+include::capitulos/cap3.asc[]
+include::capitulos/cap4.asc[]
+include::capitulos/cap5.asc[]
+include::capitulos/cap6.asc[]
+include::capitulos/cap7.asc[]
 
 
 //nclude::capitulos/glossario.asc[]
 //nclude::capitulos/respostas.asc[]
 
-[[cap7]]
-== X
-xx.
+//[[cap3]]
+//== X
+//xx
+
+//[[cap4]]
+//== x
+//xx
+
+//[[cap6]]
+//== x 
+//x
+
+//[[cap7]]
+//== X
+//xx.
 
 ////
 Sempre termine os arquivos com uma linha em branco.
