@@ -3,9 +3,22 @@
   DocBook document information file for rudder-doc.txt.
 -->
 
-  <edition>v1.1.0</edition>
+  <edition>v2.0.0</edition>
 
   <revhistory>
+
+    <revision>
+      <revnumber>v2.0.0</revnumber>
+      <date>23/Maio/2014</date>
+      <authorinitials>Hélio,Eduardo</authorinitials>
+      <revremark>
+- Versão do livro apenas com o capítulo 6 #14.
+- Revisão do Capítulo 6 com o autor #13. 
+- Atualização do Prefácio. 
+      </revremark>
+    </revision>
+
+
 
     <revision>
       <revnumber>v1.1.0</revnumber>
