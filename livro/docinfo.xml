@@ -1,11 +1,15 @@
-<!--
-  rudder-doc-docinfo.xml
-  DocBook document information file for rudder-doc.txt.
--->
-
-  <edition>v2.0.0</edition>
+<edition>{edition}</edition>
 
   <revhistory>
+
+    <revision>
+      <revnumber>v2.1.0</revnumber>
+      <date>30/05/2014</date>
+      <authorinitials>?</authorinitials>
+      <revremark>
+- Revisão do Capítulos 1 e 6 (#13, #19).
+      </revremark>
+    </revision>
 
     <revision>
       <revnumber>v2.0.0</revnumber>
@@ -17,8 +21,6 @@
 - Atualização do Prefácio. 
       </revremark>
     </revision>
-
-
 
     <revision>
       <revnumber>v1.1.0</revnumber>
