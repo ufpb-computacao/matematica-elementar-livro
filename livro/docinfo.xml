@@ -3,6 +3,17 @@
   <revhistory>
 
     <revision>
+      <revnumber>v2.2.0</revnumber>
+      <date>04/06/2014</date>
+      <authorinitials> Hélio e Eduardo </authorinitials>
+      <revremark>
+- Troca do termo unidade por capítulo (#15).
+- Adição de explicação sobre o Somente se (#22).
+- Atualização do Capítulo 2 com o autor (#23).
+      </revremark>
+    </revision>
+
+    <revision>
       <revnumber>v2.1.0</revnumber>
       <date>30/05/2014</date>
       <authorinitials>Hélio,Eduardo</authorinitials>
