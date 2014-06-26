@@ -3,6 +3,21 @@
   <revhistory>
 
     <revision>
+      <revnumber>v2.3.0</revnumber>
+      <date>26/06/2014</date>
+      <authorinitials> Hélio e Eduardo </authorinitials>
+      <revremark>
+- Restruturação de todos os capítulos.
+- Mudança na ordem dos capítulos (#43).
+- Elaboração dos Objetivos de cada capítulo (#16).
+- Inclusão do assunto Tabela Verdade (#24).
+- Remoção Espaço em Branco como erro de fbf (#26).
+- Remoção de erros de latexmath (#40).
+- Diminução de links para http://youtu.be (#31).
+      </revremark>
+    </revision>
+
+    <revision>
       <revnumber>v2.2.0</revnumber>
       <date>04/06/2014</date>
       <authorinitials> Hélio e Eduardo </authorinitials>
