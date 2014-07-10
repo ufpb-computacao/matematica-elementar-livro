@@ -1,0 +1,15 @@
+spec:
+  cols: "1^,1^"
+  qrsize: 3
+
+# Axiomas e Definições sobre Conjuntos.
+conjuntos-nerckie:
+  - "http://www.youtube.com/nerckie"
+  - "Canal com vários vídeos sobre conjuntos"
+conjuntos-prof-junior:
+  - "http://youtu.be/Tb8irXMsUgA"
+  - "Prof. Júnior, exercícios de conjuntos"
+conjuntos-exercicio-resolvido-gdocs:
+  - "http://goo.gl/YE72Ey"
+  - "Exercício resolvido sobre conjuntos (texto)"
+  - "2+"

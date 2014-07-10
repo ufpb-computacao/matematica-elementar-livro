@@ -1,0 +1,49 @@
+[cols="1^,1^,1^", frame="none", grid="none"]
+|====
+| image:{qrcode_dir}/relacoes-ordem-helio1.png[]
+
+http://youtu.be/pMg8GKyREOU
+
+Relações e Ordens Exercício 1 (10:38)-Hélio
+| image:{qrcode_dir}/relacoes-ordem-helio2.png[]
+
+http://youtu.be/grdPSKm2wmE
+
+Relações e Ordens Exercício 2 (9:01)-Hélio
+| image:{qrcode_dir}/relacoes-ordem-helio3.png[]
+
+http://youtu.be/TDGGSjEZ3w0
+
+Relações e Ordens Exercício 3 (15:28)-Hélio
+| image:{qrcode_dir}/relacoes-ordem-helio4.png[]
+
+http://youtu.be/36gb-Pnza78
+
+Relações e Ordens Exercício 4 (12:25)-Hélio
+| image:{qrcode_dir}/relacoes-ordem-helio5.png[]
+
+http://youtu.be/mCCZc0XfVKk
+
+Relações e Ordens Exercício 5 (5:30)-Hélio
+| image:{qrcode_dir}/relacoes-ordem-helio6.png[]
+
+http://youtu.be/hKGoE6nXvCQ
+
+Relações e Ordens Exercício 6 (11:20)-Hélio
+| image:{qrcode_dir}/relacoes-ordem-helio7.png[]
+
+http://youtu.be/qhKGqpuX9BU
+
+Relações e Ordens Exercício 7 (11:52)-Hélio
+| image:{qrcode_dir}/OrdemParcialEstritaHelio.png[]
+
+http://youtu.be/zAXBib1mpMk
+
+Ordem Parcial Estrita - Exercício 01 - Hélio 10:23
+| image:{qrcode_dir}/OrdemParcialAmplaHelio.png[]
+
+http://youtu.be/RBzdMhtOw8E
+
+Ordem Parcial Ampla - Exercício 01 - Hélio 13:11
+
+|====

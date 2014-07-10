@@ -1,0 +1,31 @@
+spec:
+  cols: "1^,1^,1^"
+  qrsize: 3
+
+relacoes-ordem-helio1:
+  - "http://youtu.be/pMg8GKyREOU"
+  - "Relações e Ordens Exercício 1 (10:38)-Hélio"
+relacoes-ordem-helio2:
+  - "http://youtu.be/grdPSKm2wmE"
+  - "Relações e Ordens Exercício 2 (9:01)-Hélio"
+relacoes-ordem-helio3:
+  - "http://youtu.be/TDGGSjEZ3w0"
+  - "Relações e Ordens Exercício 3 (15:28)-Hélio"
+relacoes-ordem-helio4:
+  - "http://youtu.be/36gb-Pnza78"
+  - "Relações e Ordens Exercício 4 (12:25)-Hélio"
+relacoes-ordem-helio5:
+  - "http://youtu.be/mCCZc0XfVKk"
+  - "Relações e Ordens Exercício 5 (5:30)-Hélio"
+relacoes-ordem-helio6:
+  - "http://youtu.be/hKGoE6nXvCQ"
+  - "Relações e Ordens Exercício 6 (11:20)-Hélio"
+relacoes-ordem-helio7:
+  - "http://youtu.be/qhKGqpuX9BU"
+  - "Relações e Ordens Exercício 7 (11:52)-Hélio"
+OrdemParcialEstritaHelio:
+  - "http://youtu.be/zAXBib1mpMk"
+  - "Ordem Parcial Estrita - Exercício 01 - Hélio 10:23"
+OrdemParcialAmplaHelio:
+  - "http://youtu.be/RBzdMhtOw8E"
+  - "Ordem Parcial Ampla - Exercício 01 - Hélio 13:11"

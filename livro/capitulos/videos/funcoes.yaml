@@ -1,0 +1,20 @@
+spec:
+  cols: "1^,1^"
+  qrsize: 3
+
+funcoes-helio1:
+  - "http://youtu.be/22ng6noXAbM"
+  - "Funções Sobrejetoras, Injetoras e Bijetoras - Exercício 01 - Hélio"
+  - "2+"
+funcoes-gus:
+  - "http://youtu.be/Dc_Am1ztCGU"
+  - "Funções Sobrejetoras, Injetoras e Bijetoras - Gus Alberto"
+funcoes-composicao-helio:
+  - "http://youtu.be/vGmEGykPHts"
+  - "Composição de Funções - Exercício 01 - Hélio - 13:01"
+funcoes-composicao-braga1:
+  - "http://youtu.be/8xXb3m_-H6A"
+  - "Composição de Funções - Maria Zita Braga (Parte 1 - 5:21)"
+funcoes-composicao-braga2:
+  - "http://youtu.be/XyuRr-zFoZc"
+  - "Composição de Funções - Maria Zita Braga (Parte 2 - 6:55)"
