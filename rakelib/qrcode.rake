@@ -13,9 +13,27 @@ directory QRCODE_DIR
 
 FileList['livro/capitulos/videos/*.yaml'].each do |source|
   tableadoc = source.ext('adoc')
-  file tableadoc => [QRCODE_DIR, source] do |t|
-    table = YAML.load_file(source)
-    spec = table.delete 'spec'
+  table = YAML.load_file(source)
+  spec = table.delete 'spec'
+  if spec then
+    qrcode_size = spec['qrsize'] or qrcode_size
+  end
+
+  file tableadoc
+
+  table.map do |label,media|
+    if label == "end" then
+    else
+      link = media[0]
+      qrcode_file_path = "#{qrcode_dir}/#{label}.png"
+      file qrcode_file_path => [QRCODE_DIR, source] do
+        sh "qrencode \"#{link}\" -o #{qrcode_file_path} -s #{qrcode_size}"
+      end
+      file tableadoc => [qrcode_file_path]
+    end
+  end
+
+  file tableadoc => [source] do |t|
     cols = "1^"
     if spec then
       cols = spec['cols']
@@ -34,9 +52,7 @@ FileList['livro/capitulos/videos/*.yaml'].each do |source|
         description = media[1]
         cellspec = media[2] or ""
         qrcode_file = "#{label}.png"
-        qrcode_file_path = "#{qrcode_dir}/#{qrcode_file}"
         sh "qrencode \"#{link}\" -o #{qrcode_dir}/#{qrcode_file} -s #{qrcode_size}"
-        
         row = <<-eos
 #{cellspec}| image:{qrcode_dir}/#{qrcode_file}[]
 
