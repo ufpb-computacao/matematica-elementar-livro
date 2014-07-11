@@ -1,6 +1,16 @@
 [[tabqr_funcoes]]
 [cols="1^,1^", frame="none", grid="none"]
 |====
+| image:{qrcode_dir}/prova1-funcoesb.png[]
+
+http://youtu.be/gsGObzCu_xk
+
+(Hélio) 2013.2 Prova1 - Funções - B(6:2)
+| image:{qrcode_dir}/prova1-funcoes.png[]
+
+http://youtu.be/x7WGIUMMKzg
+
+Hélio) 2013.2 Prova1 - Funções(5:24)
 2+| image:{qrcode_dir}/funcoes-helio1.png[]
 
 http://youtu.be/22ng6noXAbM

@@ -1,6 +1,16 @@
 [[tabqr_conjuntos]]
 [cols="1^,1^", frame="none", grid="none"]
 |====
+| image:{qrcode_dir}/0LjmrVlEobA.png[]
+
+http://youtu.be/0LjmrVlEobA
+
+(Hélio) 2013.2 - Prova 1 - CONJUNTOS(10:7)
+| image:{qrcode_dir}/7bMHnle1w48.png[]
+
+http://youtu.be/7bMHnle1w48
+
+(Hélio) Conjunto Potência - Exercício 01(14:30)
 | image:{qrcode_dir}/conjuntos-nerckie.png[]
 
 http://www.youtube.com/nerckie

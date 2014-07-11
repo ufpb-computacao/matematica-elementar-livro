@@ -1,0 +1,10 @@
+[[tabqr_logica-sintaxe]]
+[cols="1^", frame="none", grid="none"]
+|====
+| image:{qrcode_dir}/gcalZtP0owY.png[]
+
+http://youtu.be/gcalZtP0owY
+
+(Hélio) 2013.2-Prova1 Sintaxe da Lógica Proposicional(10:41)
+
+|====
