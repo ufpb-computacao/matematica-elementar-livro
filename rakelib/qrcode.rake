@@ -35,11 +35,18 @@ FileList['livro/capitulos/videos/*.yaml'].each do |source|
 
   file tableadoc => [source] do |t|
     cols = "1^"
+    title = ""
     if spec then
       cols = spec['cols']
       qrcode_size = spec['qrsize'] or qrcode_size
+      title = spec['title'] or title
     end
-    code = ""
+    table_file_id = File.basename(tableadoc).chomp(File.extname(tableadoc))
+    tabela_id = "tabqr_#{table_file_id}"
+    code = "[[#{tabela_id}]]\n"
+    if (title) then
+      code << ".#{title}\n"
+    end
     header = "[cols=\"#{spec['cols']}\", frame=\"none\", grid=\"none\"]"
     code << header
     code << "\n|====\n"
@@ -70,7 +77,8 @@ eos
 
     #puts table
     #sh "echo name #{t.name} source: #{t.source}"
-    puts "\ninclude::videos/#{tableadoc}[]\n"
+    puts "\ninclude::videos/#{File.basename(tableadoc)}[]\n"
+    puts "TIP: #{title}(<<#{tabela_id}>>).\n"
   end
 
   task :qrcode => tableadoc

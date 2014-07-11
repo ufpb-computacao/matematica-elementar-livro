@@ -1,0 +1,17 @@
+spec:
+  cols: "1^,1^"
+  qrsize: 3
+  title: "Videoaulas sobre construção de tabelas-verdade"
+  tip: "Você "
+
+tabela-verdade-intro:
+  - "http://youtu.be/gbKKEuYkEqA"
+  - "Nível introdutório - 32:50"
+
+#"http://youtu.be/1FBfjH3HYRw"
+#"De Damião Santos Nobre (nível intermediário)"
+# QUEBRADO
+
+tabela-verdade-pleno:
+  - "http://youtu.be/DukNKn4Isng"
+  - "De Ms Helino (nível pleno) - 44:48"

@@ -1,3 +1,4 @@
+[[tabqr_conjuntos]]
 [cols="1^,1^", frame="none", grid="none"]
 |====
 | image:{qrcode_dir}/conjuntos-nerckie.png[]
