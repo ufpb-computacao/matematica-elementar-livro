@@ -1,0 +1,51 @@
+[[tabqr_dedutivas]]
+.Videoaulas sobre Provas
+[cols="1^,1^", frame="none", grid="none"]
+|====
+| image:{qrcode_dir}/desemaranhando.png[]
+
+http://youtu.be/xWdH1Ez-sPE
+
+Desemaranhando as Definições
+| image:{qrcode_dir}/provas-diretas.png[]
+
+http://youtu.be/KBPrHy3vcrM
+
+Se-Então, Provas Diretas
+| image:{qrcode_dir}/provas-por-divisao.png[]
+
+http://youtu.be/yk-S7o530Pg
+
+Se-Então, Provas por Divisão em Casos Página
+| image:{qrcode_dir}/provas-exaustao.png[]
+
+http://youtu.be/I0Pgtkl3F40
+
+Provas por Exaustão
+| image:{qrcode_dir}/generalizacao.png[]
+
+http://youtu.be/OFRB-D1uIYg
+
+Generalização de Elemento Aleatório
+| image:{qrcode_dir}/disprovando-por-contra-exemplo.png[]
+
+http://youtu.be/sAsmERWhROQ
+
+Disprovando Por Contra-Exemplo
+2+| image:{qrcode_dir}/contradicao-reducao.png[]
+
+http://youtu.be/TZYKOaiXBNA
+
+Prova por Contradição ou por Redução ao Absurdo
+| image:{qrcode_dir}/contrapositivo.png[]
+
+http://youtu.be/rba2FSQ-irg
+
+Provas por Contrapositivo
+| image:{qrcode_dir}/prova-se-e-somente-se.png[]
+
+http://youtu.be/PqbnXDuv3dE
+
+Provas Se-E-Somente-Se
+
+|====

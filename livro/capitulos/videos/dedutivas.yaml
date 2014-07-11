@@ -1,0 +1,41 @@
+spec:
+  cols: "1^,1^"
+  qrsize: 3
+  title: "Videoaulas sobre Provas"
+
+desemaranhando:
+- "http://youtu.be/xWdH1Ez-sPE"
+- "Desemaranhando as Definições"
+
+provas-diretas:
+- "http://youtu.be/KBPrHy3vcrM"
+- "Se-Então, Provas Diretas"
+
+provas-por-divisao:
+- "http://youtu.be/yk-S7o530Pg"
+- "Se-Então, Provas por Divisão em Casos Página"
+
+provas-exaustao:
+- "http://youtu.be/I0Pgtkl3F40"
+- "Provas por Exaustão"
+
+generalizacao:
+- "http://youtu.be/OFRB-D1uIYg"
+- "Generalização de Elemento Aleatório"
+
+disprovando-por-contra-exemplo:
+- "http://youtu.be/sAsmERWhROQ"
+- "Disprovando Por Contra-Exemplo"
+
+contradicao-reducao:
+- "http://youtu.be/TZYKOaiXBNA"
+- "Prova por Contradição ou por Redução ao Absurdo"
+- "2+"
+
+contrapositivo:
+- "http://youtu.be/rba2FSQ-irg"
+- "Provas por Contrapositivo"
+
+prova-se-e-somente-se:
+- "http://youtu.be/PqbnXDuv3dE"
+- "Provas Se-E-Somente-Se"

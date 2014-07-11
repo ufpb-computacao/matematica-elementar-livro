@@ -1,0 +1,28 @@
+spec:
+  cols: "1^,1^"
+  qrsize: 3
+  title: "Videoaulas sobre outros métodos de Provas"
+
+irracionalidade:
+- "http://youtu.be/Gdb7zocliRM"
+- Prova da irracionalidade da raiz quadrada de 2
+
+metodos-de-demonstracao:
+- "http://youtu.be/hWeVttOXBWA"
+- "Aula 07 Métodos de demonstração"
+
+numeros-irracionais:
+- "http://youtu.be/Lv2hivRYCGc"
+- Números irracionais
+
+demonstacao-por-contradicao:
+- "http://youtu.be/o2S8AXGP7wo"
+- "Média - Demonstração por Contradição"
+
+ExamenCAGeometria:
+- "http://youtu.be/rxgr2PxHa0M"
+- "(KhanAcademyEspanol) Examen CA Geometría: prueba por contradicción"
+
+Contradiccion-y-potencias:
+- "http://youtu.be/QP7sQopFcls"
+- "(Leonardo Martinez) Contradicción y potencias de un irracional"

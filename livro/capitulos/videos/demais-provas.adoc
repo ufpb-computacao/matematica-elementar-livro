@@ -1,0 +1,36 @@
+[[tabqr_demais-provas]]
+.Videoaulas sobre outros métodos de Provas
+[cols="1^,1^", frame="none", grid="none"]
+|====
+| image:{qrcode_dir}/irracionalidade.png[]
+
+http://youtu.be/Gdb7zocliRM
+
+Prova da irracionalidade da raiz quadrada de 2
+| image:{qrcode_dir}/metodos-de-demonstracao.png[]
+
+http://youtu.be/hWeVttOXBWA
+
+Aula 07 Métodos de demonstração
+| image:{qrcode_dir}/numeros-irracionais.png[]
+
+http://youtu.be/Lv2hivRYCGc
+
+Números irracionais
+| image:{qrcode_dir}/demonstacao-por-contradicao.png[]
+
+http://youtu.be/o2S8AXGP7wo
+
+Média - Demonstração por Contradição
+| image:{qrcode_dir}/ExamenCAGeometria.png[]
+
+http://youtu.be/rxgr2PxHa0M
+
+(KhanAcademyEspanol) Examen CA Geometría: prueba por contradicción
+| image:{qrcode_dir}/Contradiccion-y-potencias.png[]
+
+http://youtu.be/QP7sQopFcls
+
+(Leonardo Martinez) Contradicción y potencias de un irracional
+
+|====

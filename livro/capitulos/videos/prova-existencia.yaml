@@ -1,0 +1,25 @@
+spec:
+  cols: "1^,1^"
+  qrsize: 3
+  title: "Videoaulas sobre Prova de Existência"
+
+achando-exemplo:
+- "http://youtu.be/9g6Dmc7pmCs"
+- "Prova de Existência - Achando um Exemplo"
+- "2+"
+
+prova-contrutiva:
+- "http://youtu.be/iLjh85lcPqA"
+- "Prova de Existência - Provas Construtivas"
+
+prova-nao-construtiva:
+- "http://youtu.be/Kem9WWQibXA"
+- "Prova de Existência - Prova Não Construtiva"
+
+prova-contradicao:
+- "http://youtu.be/Xo156mhmyxY"
+- "Prova de Existência - Por Contradição Ou Por Redução Ao Absurdo"
+
+casa-de-pombos:
+- "http://youtu.be/qAiVsJSr6Cc"
+- "Prova de Existência - Casa de Pombos Ou Gavetas de Dirichlet"
