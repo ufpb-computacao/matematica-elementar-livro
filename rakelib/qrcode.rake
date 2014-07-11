@@ -78,7 +78,7 @@ eos
     #puts table
     #sh "echo name #{t.name} source: #{t.source}"
     puts "\ninclude::videos/#{File.basename(tableadoc)}[]\n"
-    puts "TIP: #{title}(<<#{tabela_id}>>).\n"
+    puts "TIP: #{title} na <<#{tabela_id}>>.\n"
   end
 
   task :qrcode => tableadoc

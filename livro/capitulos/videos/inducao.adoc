@@ -1,0 +1,11 @@
+[[tabqr_inducao]]
+.Videoaulas sobre Indução
+[cols="1^", frame="none", grid="none"]
+|====
+| image:{qrcode_dir}/inducao-3-partes.png[]
+
+http://youtu.be/3mqn7MhndPE?list=PL9A14AAD8392362DA
+
+Indução em 3 partes: 8:41, 13:04 e 15:18
+
+|====

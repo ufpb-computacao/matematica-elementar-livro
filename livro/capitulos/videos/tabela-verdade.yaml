@@ -2,7 +2,6 @@ spec:
   cols: "1^,1^"
   qrsize: 3
   title: "Videoaulas sobre construção de tabelas-verdade"
-  tip: "Você "
 
 tabela-verdade-intro:
   - "http://youtu.be/gbKKEuYkEqA"
