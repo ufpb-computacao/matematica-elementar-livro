@@ -1,0 +1,26 @@
+[[tabqr_combinacao]]
+.Videoaulas sobre Análise combinatória
+[cols="1^,1^", frame="none", grid="none"]
+|====
+| image:{qrcode_dir}/analise-combinatoria-gui.png[]
+
+http://youtu.be/VInwxDcFWaQ
+
+(Prof. Gui) Exercícios sobre Algarismos, Permutações e Anagramas
+| image:{qrcode_dir}/arranjo-e-combinacoes-gui.png[]
+
+http://youtu.be/VK_ThpOO6TE
+
+(Prof. Gui) 22 min de exercícios sobre Arranjos e Combinações
+| image:{qrcode_dir}/registro-empregados.png[]
+
+http://youtu.be/eCG18ODYuEY
+
+(Hélio) Problema composto: Registro de Empregados (18:16)
+| image:{qrcode_dir}/trem-helio.png[]
+
+http://youtu.be/Yms9aqPTQsU
+
+(Hélio) Problema composto: Trem (13:53)
+
+|====

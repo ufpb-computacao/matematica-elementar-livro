@@ -1,0 +1,20 @@
+spec:
+  cols: "1^,1^"
+  qrsize: 3
+  title: "Videoaulas sobre Análise combinatória"
+
+analise-combinatoria-gui:
+  - "http://youtu.be/VInwxDcFWaQ"
+  - "(Prof. Gui) Exercícios sobre Algarismos, Permutações e Anagramas"
+
+arranjo-e-combinacoes-gui:
+  - "http://youtu.be/VK_ThpOO6TE"
+  - "(Prof. Gui) 22 min de exercícios sobre Arranjos e Combinações"
+
+registro-empregados:
+  - "http://youtu.be/eCG18ODYuEY"
+  - "(Hélio) Problema composto: Registro de Empregados (18:16)"
+
+trem-helio:
+  - "http://youtu.be/Yms9aqPTQsU"
+  - "(Hélio) Problema composto: Trem (13:53)"
