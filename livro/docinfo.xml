@@ -3,6 +3,17 @@
   <revhistory>
 
     <revision>
+      <revnumber>v2.3.1</revnumber>
+      <date>26/06/2014</date>
+      <authorinitials> Hélio e Eduardo </authorinitials>
+      <revremark>
+- Organização dos vídeos com qrcode (#44).
+- Inclusão de novos vídeos extraídos do canal (#45).
+      </revremark>
+    </revision>
+
+
+    <revision>
       <revnumber>v2.3.0</revnumber>
       <date>26/06/2014</date>
       <authorinitials> Hélio e Eduardo </authorinitials>
