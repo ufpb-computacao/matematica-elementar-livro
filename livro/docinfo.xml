@@ -3,6 +3,16 @@
   <revhistory>
 
     <revision>
+      <revnumber>v2.3.2</revnumber>
+      <date>9/08/2014</date>
+      <authorinitials> Hélio e Eduardo </authorinitials>
+      <revremark>
+- Atualizar Ficha Técnica da Editora (#46);
+- Correção do Exemplo 1.17 (#47);
+      </revremark>
+    </revision>
+
+    <revision>
       <revnumber>v2.3.1</revnumber>
       <date>26/06/2014</date>
       <authorinitials> Hélio e Eduardo </authorinitials>
