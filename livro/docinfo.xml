@@ -3,12 +3,23 @@
   <revhistory>
 
     <revision>
+      <revnumber>v2.3.3</revnumber>
+      <date>20/09/2014</date>
+      <authorinitials> Hélio e Eduardo </authorinitials>
+      <revremark>
+<ulink url="{gitrepo}/issues/49">Correção no Exemplo 2.14;</ulink>
+<ulink url="{gitrepo}/issues/50">Correção no Cap2: Propriedades de combinação da conjunção e da disjunção;</ulink>
+<ulink url="{gitrepo}/issues/51">Criando links para issues no histórico de revisão;</ulink>
+      </revremark>
+    </revision>
+
+    <revision>
       <revnumber>v2.3.2</revnumber>
       <date>9/08/2014</date>
       <authorinitials> Hélio e Eduardo </authorinitials>
       <revremark>
-- Atualização da Ficha Técnica (#46);
-- Correção do Exemplo 1.17 (#47);
+<ulink url="{gitrepo}/issues/46">Atualização da Ficha Técnica;</ulink>
+<ulink url="{gitrepo}/issues/47">Correção do Exemplo 1.17;</ulink>
       </revremark>
     </revision>
 
@@ -17,8 +28,8 @@
       <date>26/06/2014</date>
       <authorinitials> Hélio e Eduardo </authorinitials>
       <revremark>
-- Organização dos vídeos com qrcode (#44).
-- Inclusão de novos vídeos extraídos do canal (#45).
+<ulink url="{gitrepo}/issues/44">Organização dos vídeos com qrcode;</ulink>
+<ulink url="{gitrepo}/issues/45">Inclusão de novos vídeos extraídos do canal;</ulink>
       </revremark>
     </revision>
 
@@ -28,13 +39,24 @@
       <date>26/06/2014</date>
       <authorinitials> Hélio e Eduardo </authorinitials>
       <revremark>
-- Restruturação de todos os capítulos.
-- Mudança na ordem dos capítulos (#43).
-- Elaboração dos Objetivos de cada capítulo (#16).
-- Inclusão do assunto Tabela Verdade (#24).
-- Remoção Espaço em Branco como erro de fbf (#26).
-- Remoção de erros de latexmath (#40).
-- Diminução de links para http://youtu.be (#31).
+<ulink url="{gitrepo}/issues/16">Elaboração dos Objetivos de cada capítulo;</ulink>
+<ulink url="{gitrepo}/issues/20">Restruturação do capítulo 6;</ulink>
+<ulink url="{gitrepo}/issues/21">Restruturação do capítulo 1;</ulink>
+<ulink url="{gitrepo}/issues/24">Inclusão do assunto Tabela Verdade;</ulink>
+<ulink url="{gitrepo}/issues/25">Melhorias na estrutura do capítulo 2;</ulink>
+<ulink url="{gitrepo}/issues/26">Remoção Espaço em Branco como erro de fbf;</ulink>
+<ulink url="{gitrepo}/issues/30">Correções pontuais no Capítulo 2;</ulink>
+<ulink url="{gitrepo}/issues/31">Diminução de links para http://youtu.be;</ulink>
+<ulink url="{gitrepo}/issues/32">Atualização dos capítulos 3 e 4;</ulink>
+<ulink url="{gitrepo}/issues/33">Atualização do Prefácio;</ulink>
+<ulink url="{gitrepo}/issues/35">Atualização dos tópicos do Capítulo 5;</ulink>
+<ulink url="{gitrepo}/issues/36">Atualização dos tópicos do Capítulo 2;</ulink>
+<ulink url="{gitrepo}/issues/37">Atualização dos tópicos do Capítulo 1;</ulink>
+<ulink url="{gitrepo}/issues/39">Atualização dos tópicos do Capítulo 7;</ulink>
+<ulink url="{gitrepo}/issues/40">Remoção de erros de latexmath;</ulink>
+<ulink url="{gitrepo}/issues/41">Atualização dos tópicos do Capítulo 3;</ulink>
+<ulink url="{gitrepo}/issues/42">Atualização dos tópicos do Capítulo 4;</ulink>
+<ulink url="{gitrepo}/issues/43">Mudança na ordem dos capítulos;</ulink>
       </revremark>
     </revision>
 
@@ -43,29 +65,30 @@
       <date>04/06/2014</date>
       <authorinitials> Hélio e Eduardo </authorinitials>
       <revremark>
-- Troca do termo unidade por capítulo (#15).
-- Adição de explicação sobre o Somente se (#22).
-- Atualização do Capítulo 2 com o autor (#23).
+<ulink url="{gitrepo}/issues/15">Troca do termo unidade por capítulo;</ulink>
+<ulink url="{gitrepo}/issues/22">Adição de explicação sobre o Somente se;</ulink>
+<ulink url="{gitrepo}/issues/23">Atualização do Capítulo 2 com o autor;</ulink>
       </revremark>
     </revision>
 
     <revision>
       <revnumber>v2.1.0</revnumber>
       <date>30/05/2014</date>
-      <authorinitials>Hélio,Eduardo</authorinitials>
+      <authorinitials>Hélio e Eduardo</authorinitials>
       <revremark>
-- Revisão dos Capítulos 1 e 6 (#13, #19).
+<ulink url="{gitrepo}/issues/13">Revisão do Capítulo 6;</ulink>
+<ulink url="{gitrepo}/issues/19">Revisão do Capítulo 1;</ulink>
       </revremark>
     </revision>
 
     <revision>
       <revnumber>v2.0.0</revnumber>
       <date>23/Maio/2014</date>
-      <authorinitials>Hélio,Eduardo</authorinitials>
+      <authorinitials>Hélio e Eduardo</authorinitials>
       <revremark>
-- Versão do livro apenas com o capítulo 6 #14.
-- Revisão do Capítulo 6 com o autor #13. 
-- Atualização do Prefácio. 
+<ulink url="{gitrepo}/issues/14">Versão do livro apenas com o capítulo 6 #14;</ulink>
+<ulink url="{gitrepo}/issues/13">Revisão do Capítulo 6 com o autor #13;</ulink>
+Atualização do Prefácio;
       </revremark>
     </revision>
 
