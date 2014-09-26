@@ -25,7 +25,7 @@ GITHUB_REPO = `git config remote.origin.url`.strip.gsub('git@github.com:','').gs
 
 # release
 REPOSITORIO_PATH=`git rev-parse --show-toplevel`.strip
-@RELEASE_DIR = ''
+#@RELEASE_DIR = ''
 @tag = ''
 @SEJDA_BIN = '/home/santana/ambiente/sejda/bin/sejda-console'
 
@@ -200,7 +200,7 @@ end
 
 desc "Download new Rakefile"
 task :uprake do
-  `wget --output-document=Rakefile https://raw.githubusercontent.com/edusantana/novo-livro/master/Rakefile`
+  `wget --output-document=Rakefile https://raw.githubusercontent.com/edusantana/asciidoc-book-template-with-rake-and-github/master/Rakefile`
 end
 
 
