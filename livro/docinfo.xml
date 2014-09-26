@@ -3,6 +3,16 @@
   <revhistory>
 
     <revision>
+      <revnumber>v2.3.4</revnumber>
+      <date>26/09/2014</date>
+      <authorinitials> Hélio e Eduardo </authorinitials>
+      <revremark>
+<ulink url="{gitrepo}/issues/52">Solicitando feedback ao final de cada capítulo;</ulink>
+<ulink url="{gitrepo}/issues/53">2.2.1.3: Explicação das BNF em português;</ulink>
+      </revremark>
+    </revision>
+
+    <revision>
       <revnumber>v2.3.3</revnumber>
       <date>20/09/2014</date>
       <authorinitials> Hélio e Eduardo </authorinitials>
