@@ -1,5 +1,11 @@
-[[cap4]]
+[[cap6]]
 == Provas Dedutivas
+
+:cap: cap6
+:online: {gitrepo}/blob/master/livro/capitulos/code/{cap}
+:local: {code_dir}/{cap}
+:img: {img_dir}/{cap}
+
 
 .Objetivos do capítulo
 ____
@@ -1446,12 +1452,12 @@ latexmath:[$A$], latexmath:[$B$] e latexmath:[$C$] como mostrado
 abaixo (figura esquerda, caso o ângulo de latexmath:[$C < 90$]
 graus; figura direita, caso o ângulo de latexmath:[$C > 90$] graus):
 
-image::images/cap4/img01-pythagoras01.eps[scaledwidth="40%"]
+image::images/cap6/img01-pythagoras01.eps[scaledwidth="40%"]
 
 Construa um segmento de reta latexmath:[$CD$], perpendicular a
 latexmath:[$CB$], como mostrado:
 
-image::images/cap4/img02-pythagoras02.eps[scaledwidth="40%"]
+image::images/cap6/img02-pythagoras02.eps[scaledwidth="40%"]
 
 Pelo teorema de Pitágoras, latexmath:[$BD^2 = a^2 + b^2 = c^2$],
 portanto latexmath:[$BD = c$]. Assim, temos triângulos isósceles
@@ -2192,7 +2198,7 @@ igual a latexmath:[$10 cm$]. Como são 2 cores (casas) e 3 pontos
 (pombos), então, pelo princípio das casas dos pombos, teremos dois
 pontos da mesma cor.
 
-image::images/cap4/img03-pigeonhole.eps[scaledwidth="40%"]
+image::images/cap6/img03-pigeonhole.eps[scaledwidth="40%"]
 ====
 
 ==== Exercícios

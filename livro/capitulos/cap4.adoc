@@ -1,5 +1,10 @@
-[[cap6]]
+[[cap4]]
 == Introdução a Grafos e Árvores
+
+:cap: cap4
+:online: {gitrepo}/blob/master/livro/capitulos/code/{cap}
+:local: {code_dir}/{cap}
+:img: {img_dir}/{cap}
 
 .Objetivos do capítulo
 ____
@@ -116,11 +121,11 @@ voltar ao ponto de partida sem nadar pelo rio?
 [width="100%",cols="^,^",frame="none",grid="none"]
 |====
 2+|Você tem que passar por cada de *a,b,c,d,e,f,g* exatamente uma vez.
-|image:images/cap6/img01.eps[width="130"]
+|image:images/cap4/img01.eps[width="130"]
 
 Situação real -- o problema
 
-|image:images/cap6/img02.eps[width="100"]
+|image:images/cap4/img02.eps[width="100"]
 
 Modelo do problema
 |====
@@ -194,7 +199,7 @@ são ditas *((arestas adjacentes))*.
 ====
 [width="100%", cols="^.^,<.^", frame="none",grid="none"]
 |====
-|image:images/cap6/img03.eps[width="100"]
+|image:images/cap4/img03.eps[width="100"]
 |latexmath:[$G = (V,E)$]                               (grafo)
 
 latexmath:[$V = {1, 2, 3, 4, 5, 7}$]               (vértices)
@@ -217,7 +222,7 @@ adjacentes.
 
 [[fig_multigrafo]]
 .Grafo multigrafo
-image::images/cap6/img04.eps[scaledwidth="30%"]
+image::images/cap4/img04.eps[scaledwidth="30%"]
 
 * Um grafo latexmath:[$G = (V, E)$] (<<fig_multigrafo>>) é um
   *((multigrafo))* se existem mais de uma aresta ligando o mesmo par
@@ -299,7 +304,7 @@ latexmath:[$n(n-1)/2$].
 
 
 .Grafo 5-clique. Pois cada um dos 5 vértices se liga a todos os outros.
-image::images/cap6/img05.eps[scaledwidth="30%"]
+image::images/cap4/img05.eps[scaledwidth="30%"]
 
 * (((Grafo,vazio))) *Grafo vazio* é um grafo sem arestas.
 
@@ -336,7 +341,7 @@ denotamos tal grafo por latexmath:[$K_{m,n}$].
 
 [[fig_grafo_bipartido]]
 .Grafo bipartido completo latexmath:[$K_{4,5}$].
-image::images/cap6/img06.eps[scaledwidth="25%"]
+image::images/cap4/img06.eps[scaledwidth="25%"]
 
 ==== Grafo k-partido
 
@@ -391,7 +396,7 @@ latexmath:[$\bar{G} $] é o grafo que contém as arestas que teria se
 fosse completo, mas que não estão em latexmath:[$G$].
 
 .Grafos complementares. Os grafos cinza e preto são complementares entre si.
-image::images/cap6/img07.eps[scaledwidth="60%"]
+image::images/cap4/img07.eps[scaledwidth="60%"]
 
 .Note que:
 [NOTE]
@@ -411,7 +416,7 @@ Um grafo é dito *conexo* se houver um caminho entre quaisquer dois
 de seus vértices.
 
 .Grafo conexo
-image::images/cap6/img08.eps[scaledwidth="30%"]
+image::images/cap4/img08.eps[scaledwidth="30%"]
 
 ==== Grafo desconexo
 
@@ -421,13 +426,13 @@ Um grafo é dito *desconexo* se não houver um caminho entre quaisquer dois de
 seus vértices.
 
 .Grafo desconexo. Note que não há caminho entre X~2~ e X~5~.
-image::images/cap6/img09.eps[scaledwidth="30%"]
+image::images/cap4/img09.eps[scaledwidth="30%"]
 
 Um grafo desconexo é formado por pelo menos dois subgrafos conexos,
 disjuntos em relação aos vértices. Cada um destes subgrafos
 conexos é dito ser uma *componente conexa* do grafo.
 
-image::images/cap6/img10.eps[scaledwidth="30%"]
+image::images/cap4/img10.eps[scaledwidth="30%"]
 
 
 Um vértice é chamado de um *((vértice de corte))* se sua remoção
@@ -488,8 +493,8 @@ equivalentes e se é preservada a ordem dos vértices de cada arco.
 |====
 |Grafo latexmath:[$G$]	|Grafo latexmath:[$H$] |Um isomorfismo entre
 latexmath:[$G$] e latexmath:[$H$]
-|image:images/cap6/img11.eps[width="60"]
-|image:images/cap6/img12.eps[width="130"]
+|image:images/cap4/img11.eps[width="60"]
+|image:images/cap4/img12.eps[width="130"]
 |latexmath:[$f(a) = 1$]
 
 latexmath:[$f(b) = 6$]
@@ -779,7 +784,7 @@ direção correta.)
 
 [[fig_circuito]]
 .Digrafo com um circuito
-image::images/cap6/img14.eps[scaledwidth="30%"]
+image::images/cap4/img14.eps[scaledwidth="30%"]
 
 ==== Grafo euleriano
 
@@ -799,7 +804,7 @@ ponteiros do relógio, o ciclo euleriano será 1,2,3,4,5,1,3,5,2,4,1.)
 
 [[fig_euleriano]]
 .Grafo euleriano
-image::images/cap6/img15.eps[scaledwidth="40%"]
+image::images/cap4/img15.eps[scaledwidth="40%"]
 
 ===== Grafo semi-euleriano
 
@@ -815,7 +820,7 @@ Note que o grafo não é euleriano, pois tem vértices de grau ímpar.
 
 [[fig_semi_euleriano]]
 .Grafo semi-euleriano
-image::images/cap6/img16.eps[scaledwidth="40%"]
+image::images/cap4/img16.eps[scaledwidth="40%"]
 
 ===== Teorema de Euler
 
@@ -876,7 +881,7 @@ Todo grafo completo (clique) que contém mais de 2 vértices é
 hamiltoniano.
 
 .Grafo hamiltoniano
-image::images/cap6/img17.eps[scaledwidth="40%"]
+image::images/cap4/img17.eps[scaledwidth="40%"]
 
 --
 
@@ -906,14 +911,14 @@ hamiltoniano e existe um passeio que passa exatamente uma vez em cada
 um dos vértices de latexmath:[$G$].
 
 .Grafo Semi-hamiltoniano
-image::images/cap6/img18.eps[scaledwidth="25%"]
+image::images/cap4/img18.eps[scaledwidth="25%"]
 
 Teorema (Dirac 1952):: Uma condição suficiente, mas não
 necessária, para que um grafo simples latexmath:[$G$] com
 latexmath:[$n (>2)$] vértices seja hamiltoniano é que o grau de
 todo vértice de latexmath:[$g$] seja latexmath:[$\geq n/2$].
 
-image::images/cap6/img19.eps[scaledwidth="40%"]
+image::images/cap4/img19.eps[scaledwidth="40%"]
 
 ===== Teorema de Ore
 
@@ -928,7 +933,7 @@ dos ponteiros do relógio, o ciclo será 1,2,3,4,5,1.
 
 [[fig_ore]]
 .Grafo ilustrando o Teorema de Ore
-image::images/cap6/img20.eps[scaledwidth="40%"]
+image::images/cap4/img20.eps[scaledwidth="40%"]
 
 [[problema_caminho_mais_curto]]
 ==== Problema do caminho mais curto
@@ -948,7 +953,7 @@ sim latexmath:[$D-F-E$], com uma custo total de latexmath:[$6+8 = 14$].
 
 [[fig_caminho_mais_curto]]
 .Exemplo de grafo para cálculo do caminho mais curto
-image::images/cap6/img21.eps[scaledwidth="35%"]
+image::images/cap4/img21.eps[scaledwidth="35%"]
 
 ==== Problema do carteiro chinês
 
@@ -1042,7 +1047,7 @@ grafo tem uma *((floresta)) de árvores mínimas*, que é uma união de
 
 [[fig_arvore_geradora]]
 .Arvore geradora mínima em negrito
-image::images/cap6/img22.eps[scaledwidth="40%"]
+image::images/cap4/img22.eps[scaledwidth="40%"]
 
 Neste grafo, um peso aproximadamente igual ao seu comprimento foi
 atribuído a cada aresta. Uma árvore geradora mínima deste grafo
@@ -1059,7 +1064,7 @@ caixeiro viajante para o grafo das quatro cidades mostradas abaixo.
 +
 [width="100%", cols="^.^",frame="none",grid="none"]
 |====
-|image:images/cap6/img23.eps[width="150"]
+|image:images/cap4/img23.eps[width="150"]
 |====
 . Pode um grafo ter um circuito euleriano , mas não um hamiltoniano?
 Explique sua resposta.
@@ -1070,12 +1075,12 @@ circuito hamiltoniano.
 +
 [width="100%", cols="^.^",frame="none",grid="none"]
 |====
-|image:images/cap6/img26.eps[width="130"]
+|image:images/cap4/img26.eps[width="130"]
 |====
 . Qual é o grau (ou valência) do vértice A no grafo abaixo?
 +
 --
-image::images/cap6/img28.eps[width="150"]
+image::images/cap4/img28.eps[width="150"]
 [width="100%", cols="<,<,<,<", frame="none", grid="none"]
 |====
 |a)	3
@@ -1094,7 +1099,7 @@ do gráfico.
 . Qual dos grafos à abaixo tem um circuito euleriano?
 +
 --
-image::images/cap6/img29.eps[scaledwidth="40%"]
+image::images/cap4/img29.eps[scaledwidth="40%"]
 .. Grafo I, pois há um número par de arestas em cada um de todos os
 seus nodos.
 .. Grafo II, pois há um número par de arestas em cada um de todos
@@ -1108,7 +1113,7 @@ numerados no gráfico seguinte. Por que o caminho não representa um
 circuito de Euler (pronuncie como ``Óilêr'')?
 +
 --
-image::images/cap6/img30.eps[width="160"]
+image::images/cap4/img30.eps[width="160"]
 
 .. O caminho não inicia e para no mesmo vértice.
 .. O caminho não cobre todas as bordas do gráfico.
@@ -1128,7 +1133,7 @@ duplicadas) para que o grafo se transforme num euleriano ?
 hamiltoniano para o grafo abaixo?
 +
 --
-image::images/cap6/img31.eps[width="130"]
+image::images/cap4/img31.eps[width="130"]
 
 [width="100%", cols="<,<",frame="none",grid="none"]
 |====
@@ -1146,7 +1151,7 @@ visitado), começando por latexmath:[$A$]?
 +
 --
 
-image::images/cap6/img32.eps[width="160"]
+image::images/cap4/img32.eps[width="160"]
 
 [width="100%", cols="<,<,<,<",frame="none",grid="none"]
 |====
@@ -1175,7 +1180,7 @@ ordenadas.
 +
 --
 
-image::images/cap6/img33.eps[width="160"]
+image::images/cap4/img33.eps[width="160"]
 [width="100%", cols="<,<,<,<",frame="none",grid="none"]
 |====
 |a)	220
@@ -1200,19 +1205,19 @@ custo, 120.
 . Sim. Por exemplo, o grafo abaixo.
 +
 --
-image::images/cap6/img24.eps[width="40%"]
+image::images/cap4/img24.eps[width="40%"]
 --
 
 . Sim. Por exemplo, o grafo abaixo.
 +
 --
-image::images/cap6/img25.eps[width="40%"]
+image::images/cap4/img25.eps[width="40%"]
 --
 
 . {zwsp}
 +
 --
-image::images/cap6/img27.eps[width="40%"]
+image::images/cap4/img27.eps[width="40%"]
 --
 
 . D
