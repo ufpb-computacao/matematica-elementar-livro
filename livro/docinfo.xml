@@ -3,6 +3,17 @@
   <revhistory>
 
     <revision>
+      <revnumber>v2.3.5</revnumber>
+      <date>16/10/2014</date>
+      <authorinitials> Hélio e Eduardo </authorinitials>
+      <revremark>
+<ulink url="{gitrepo}/issues/48">Inclusão do ISBN;</ulink>
+<ulink url="{gitrepo}/issues/55"> cap3 correção ortográfica, remoção do '+' (3.2.2);</ulink>
+      </revremark>
+    </revision>
+
+
+    <revision>
       <revnumber>v2.3.4</revnumber>
       <date>26/09/2014</date>
       <authorinitials> Hélio e Eduardo </authorinitials>
