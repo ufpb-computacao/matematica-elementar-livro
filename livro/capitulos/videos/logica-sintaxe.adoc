@@ -1,3 +1,4 @@
+.Sintaxe da Lógica Proposicional
 [[tabqr_logica-sintaxe]]
 [cols="1^", frame="none", grid="none"]
 |====

@@ -60,13 +60,12 @@ horas para estudar este livro*.
 ====
 Se você quiser ver o assunto mais explicada e profundamente, não
 precisará de mais que os livros textos da ementa da disciplina. Se
-quiser ainda mais, veja, em português:
-http://homepages.dcc.ufmg.br/\~loureiro/md/md_3MetodosDeProva.pdf
-(Antonio Alfredo Ferreira Loureiro);
-http://www.ic.unicamp.br/\~anamaria/cursos/MC348/2010-2/livro-apost-03.pdf;
-http://www.weebly.com/uploads/5/9/4/6/5946176/notas-aula-provas.pdf
-(notas de aula do Prof. Diego Mello) e
-http://www.sbm.org.br/docs/coloquios/SU-2.08.pdf (mais completo, é
+quiser ainda mais, veja, em português: md_3MetodosDeProva.pdf
+(http://goo.gl/DtakRm - Antonio Alfredo Ferreira Loureiro);
+livro-apost-03.pdf (http://goo.gl/HllQdC);
+notas-aula-provas.pdf (http://goo.gl/a5568i - 
+notas de aula do Prof. Diego Mello) e
+SU-2.08.pdf (http://goo.gl/akLbh5 - mais completo, é
 um livro com 106 páginas).
 
 Em inglês, são considerados clássicos e devem poder ser
@@ -86,9 +85,7 @@ classificadas como simples. Leia, estude, e aprenda; depois de dois
 dias tente fazer as provas sozinhos, depois compare com as provas dos
 grandes mestres. Ao escrever este capítulo, além dos livros textos da
 disciplina e dos acima citados, também nos baseamos, parcialmente, em _How To
-Write Proofs_,
-http://zimmer.csufresno.edu/\~larryc/proofs/proofs.html (Larry W.
-Cusick), curto mas instrutivo.
+Write Proofs_, http://goo.gl/E0aJ7T (Larry W. Cusick), curto mas instrutivo.
 
 ====
 //_
