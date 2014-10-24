@@ -4,6 +4,16 @@
 
     <revision>
       <revnumber>v2.3.5</revnumber>
+      <date>23/10/2014</date>
+      <authorinitials> Hélio e Eduardo </authorinitials>
+      <revremark>
+<ulink url="{gitrepo}/issues/56">Inclusão do ISBN de impressão;</ulink>
+<ulink url="{gitrepo}/issues/57">Prefácio: Inclusão da seção de feedback;</ulink>
+      </revremark>
+    </revision>
+
+    <revision>
+      <revnumber>v2.3.5</revnumber>
       <date>16/10/2014</date>
       <authorinitials> Hélio e Eduardo </authorinitials>
       <revremark>
