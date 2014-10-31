@@ -49,14 +49,6 @@ que ser determinado e disciplinado, *cada semana dedicando 4 a 8
 horas para estudar este livro*.
 ====
 
-.Conteúdo deste capítulo
-____________________
-* Motivação e Introdução
-* Conceitos Básicos de Grafos e Digrafos
-* Percursos em Grafos em Geral e em Cliques
-* Árvores e Árvores Geradoras
-____________________
-
 [NOTE]
 ====
 Agradecemos a permissão do _Prof. Dr. Lucídio dos Anjos Formiga
